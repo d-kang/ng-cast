@@ -6,7 +6,7 @@ angular.module('video-player')
       this.currentVideo = {};
       this.videos = [];
     },
-     templateUrl: '/src/templates/app.html'
+    templateUrl: 'src/templates/app.html'
   });
 
 console.log('hi');
