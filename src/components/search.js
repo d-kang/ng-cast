@@ -6,8 +6,3 @@ angular.module('video-player')
 
     templateUrl: 'src/templates/search.html'
   });
-
-
-  // controller: function mySearchController() {
-  //   this.result = () => {};
-  // },
